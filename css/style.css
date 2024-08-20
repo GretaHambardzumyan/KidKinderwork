@@ -1,0 +1,859 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: auto;
+    height: 15vh;
+    background: #f8f9fa;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.teddy {
+    width: 55px;
+    height: 55px;
+}
+.kidKinder {
+    font-size: 285%;
+    color: #17a2b8;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.headerLinks {
+    text-decoration: none;
+    color: #00394f;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    background-color: #f8f9fa;
+}
+.headerLinks:hover {
+    color:#17a2b8;
+}
+.headerbutton {
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.joinClass {
+    width: 130px;
+    height: 40px;
+    background-color: #17a2b8;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.joinClass:hover {
+    background-color:#0C809D;
+}
+.teddykid {
+    display: flex;
+    width: 21%;
+    height: auto;
+    justify-content: space-between;
+}
+.linksbutton {
+    display: flex;
+    width: 66%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.main {
+    width: auto;
+    height: 115vh;
+    background-color: #17a2b8;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+}
+.maintext {
+    width: 44%;
+    height: 56%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: space-between;
+}
+.mainpng {
+    width: 40%;
+    height: 80%;
+}
+.kidslearning {
+    font-size: 150%;
+    font-family: "Handlee", cursive;
+    font-weight:500;
+    font-style: normal;
+}
+.newkids {
+    font-size: 350%;
+    font-family: "Handlee", cursive;
+    font-weight: 500;
+    font-style: normal;
+}
+.seaipsum {
+    font-size: 100%;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 25px;
+}
+.learnbutton {
+    width: 32%;
+    height: 14%;
+    background-color:#00394f;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.learnbutton:hover {
+    background-color: #001B32;
+}
+.learnlink {
+    text-decoration: none;
+    color: white;
+    font-size: 100%;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.mainparttwo {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divblocks {
+    display: flex;
+    width: 88%;
+    height: 75vh;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.blocks {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+    height: 40%;
+    width: 31%;
+    border-radius: 8px;
+    box-shadow: 1px 4px #dee2e654;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.blocks > img {
+    width: 13%;
+    height: 31%;
+    margin-bottom: 20%;
+}
+.divblocktext {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 80%;
+    justify-content: space-around;
+}
+.blocksheader {
+    font-size: 140%;
+    font-family: "Handlee", cursive;
+    font-weight:500;
+    font-style: normal;
+    color: #00394f;
+}
+.blockstext {
+    color: #666;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 95%;
+    line-height: 25px;
+}
+.mainpartthree {
+    width: 100%;
+    height: 110vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.partthreeimg {
+    width: 34%;
+    height: 95vh;
+    background-image: url('../img/about-1.jpg');
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+.partthreetext {
+    width: 52%;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.imgtext {
+    width: 100%;
+    height: 18%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4%;
+    margin-bottom: 7%;
+}
+.smallimg {
+    width: 30%;
+    height: 120%;
+    border-radius: 5px;
+}
+.smallimgtext {
+    width: 65%;
+    height: 110%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+.icon {
+    width: 7%;
+    height: 90%;
+}
+.smallimgtext > p {
+    margin: 0;
+}
+.icontext {
+    width: 72%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.etsea {
+    padding-right: 11%;
+}
+.partthreebutton {
+    width: 23%;
+    height: 7%;
+    background-color:  #17a2b8;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.partthreebutton:hover {
+    background-color:#0C809D;
+}
+.partthreelink {
+    text-decoration: none;
+    color: white;
+    font-size: 100%;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.learnabout {
+    color: #17a2b8;
+    font-size: 110%;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin: 0;
+}
+.bestschool {
+    color: #00394f;
+    font-size: 210%;
+    font-family: "Handlee", cursive;
+    font-weight:500;
+    font-style: normal;
+    letter-spacing: -2px;
+    margin: 0;
+}
+.invidunt {
+    font-family: Nunito,sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #666;
+    letter-spacing: 1px;
+    margin: 0;
+}
+.icontext > span {
+    font-family: Nunito,sans-serif;
+    font-size: 90%;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #666;
+    letter-spacing: 1px;
+}
+.diam  {
+    padding-right: 2%;
+}
+.smallimgtext > p {
+    color: grey;
+    opacity: 0.5;
+}
+.texts {
+    height: 31vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.mainpartfourheader {
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.popular {
+    font-family: Nunito,sans-serif;
+    font-size: 105%;
+    font-weight: 600;
+    color: #17a2b8;
+}
+.classes {
+    font-family: Handlee,cursive;
+    font-weight: 500;
+    color: #00394f;
+    font-size: 230%;
+    margin: 0;
+}
+.mainpartfour {
+    width: 96%;
+    height: 130vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 2%;
+    padding-right: 1%;
+}
+.divsimgone {
+    width: 100%;
+    height: 40vh;
+    background-image: url('../img/class-1.jpg');
+    border-radius: 5px;
+    background-size: cover;
+}
+.divsimgtwo {
+    width:100%;
+    height: 40vh;
+    background-image: url('../img/class-2.jpg');
+    border-radius: 5px;
+    background-size: cover;
+}
+.divsimgthree {
+    width: 100%;
+    height: 40vh;
+    background-image: url('../img/class-3.jpg');
+    border-radius: 5px;
+    background-size: cover;
+}
+.divs {
+    width: 29%;
+    height: 125vh;
+}
+.divsimgtableone {
+    width: 100%;
+    height: 85vh;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+.divsimgtabletwo {
+    width: 100%;
+    height: 85vh;
+    background-color: #F7F9FA;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+.divsimgtablethree {
+    width: 100%;
+    height: 85vh;
+    background-color:#F7F9FA;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+.divsimgtexth {
+    font-family: Handlee,cursive;
+    color: #00394f;
+    margin: 0;
+    font-size: 160%;
+    letter-spacing: -1px;
+    text-align: center;
+}
+.divsimgtext {
+    margin: 0;
+    font-family: Nunito,sans-serif;
+    line-height: 1.5;
+    color: #666;
+    text-align: center;
+}
+.table {
+    border: 2px solid black;
+}
+.parenttable {
+    display: flex;
+    justify-content: center;
+    height: 26vh;
+}
+.ptext {
+    font-family: Nunito,sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 35px;
+    color: #666; 
+    margin: 0;
+    border-bottom: 1px solid #80808069;
+}
+.x {
+    font-family: Nunito,sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 35px;
+    color: #666; 
+    margin: 0;
+    text-align: center;
+}
+.descriptiontext {
+    border-right: 1px solid #80808069;
+    height: 23vh;
+    width: 40%;
+    text-align: center;
+}
+.descriptiondigital {
+    height: 30vh;
+    width: 40%;
+    text-align: center;
+}
+.joinNow {
+    width: 130px;
+    height: 40px;
+    background-color: #17a2b8;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+}
+.textdiv {
+    width: 76%;
+    margin-left: 43px;
+    line-height: 70px;
+}
+hr {
+    width: 100%;
+}
+.joinNow:hover {
+    background-color:#0C809D;
+}
+.mainpartfive {
+    width: 100%;
+    height: 110vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+}
+.BOOKASEAT {
+    height: 75vh;
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.BOOKASEATFORM {
+    width: 36%;
+    height: 85vh;
+    background-color: #17a2b8;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.bookAseat {
+    color: #17a2b8;
+    font-family: Nunito,sans-serif;
+    font-size: 110%;
+    font-weight: 500;
+    margin: 0;
+}
+.bookAseatform {
+    font-family: Handlee,cursive;
+    font-weight: 500;
+    color: #00394f;
+    font-size: 250%;
+    letter-spacing: -2px;
+    margin: 0;
+}
+.invidunttext {
+    font-family: Nunito,sans-serif;
+    font-size: 109%;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #666;
+    margin: 0;
+}
+.icons {
+    width: 9%;
+    height: 4vh;
+}
+.divicontext {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.divicontext > span {
+    font-family: Nunito,sans-serif;
+    font-size: 109%;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #666;
+    margin: 0;
+}
+.etsea2 {
+    padding-right: 35px; 
+}
+.diam2 {
+    padding-right: 10px;
+}
+.booknow {
+    width: 130px;
+    height: 42px;
+    background-color: #17a2b8;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.booknow:hover {
+    background-color:#0C809D;
+}
+.formbookaseat {
+    font-family: Handlee,cursive;
+    font-weight: 500;
+    color: #f6f8f8;
+    font-size: 250%;
+    letter-spacing: -2px;
+    margin: 0;
+}
+.formbookaseatdiv {
+    background-color: #00394f;
+    margin: 0;
+    height: 18vh;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputs {
+    height: 7vh;
+    width: 82%;
+    border-radius: 6px;
+    border: aliceblue;
+}
+.select {
+    width: 83%;
+    height: 8vh;
+    border-radius: 6px;
+    border: aliceblue;
+}
+.buttonbooknow {
+    border-radius: 40px;
+    background-color: #00394f;
+    width: 84%;
+    height: 10vh;
+    box-shadow: 1px 9px 12px 2px #4a5470;
+    border: rgb(36, 32, 75);
+}
+.booknowA {
+    color: white;
+    text-decoration: none;
+    color: #f6f8f8;
+    font-size: 150%;
+}
+.childdivform {
+    width: 100%;
+    height: 42vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 68px;
+}
+.mainpartsixheader {
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mainpartsix {
+    height: 75vh;
+    width: 95%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 35px;
+}
+.mainpartsix > div {
+    width: 22%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imgs {
+    border-radius: 150px;
+    width: 100%;
+}
+.pheader {
+    font-family: Handlee,cursive;
+    color: #00394f;
+    margin: 0;
+    font-size: 155%;
+    letter-spacing: -2px;
+    line-height: 3;
+}
+.p {
+    font-family: Nunito,sans-serif;
+    font-size: 110%;
+    font-weight: 500;
+    color: #666;
+    margin: 0;
+    line-height: 0;
+}
+.footer {
+    height: 60vh;
+    background-color: #00394f;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.footerpartone {
+    width: 22%;
+    height: 55vh;
+}
+.footerparttwo {
+    width: 20%;
+    height: 55vh;
+} 
+.footerpartthree {
+    width: 20%;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+}
+.footerpartfour {
+    width: 23%;
+    height: 55vh;
+}
+.kidKinderfooter {
+    font-size: 240%;
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    
+}
+.teddyfooter {
+    width: 25%;
+    height: 11vh;
+}
+.teddykidfooter {
+    width: 90%;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+.labore {
+    font-family: Nunito,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+}
+.socialdivs {
+    display: flex;
+    width: 70%;
+    height: 6vh;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.linksicon {
+    display: flex;
+}
+.headerfooter {
+    color: #2fb0c5;
+    font-family: Handlee,cursive;
+    font-size: 190%;
+    letter-spacing: -3px;
+    margin-top: 28px;
+    margin-bottom: 15px;
+}
+.footerinfo {
+    color: white;
+    font-family: Handlee,cursive;
+    font-size: 130%;
+    letter-spacing: -1px;
+    margin: 0;
+    line-height: 50px;
+}
+.footerinfochild {
+    color: white;
+    font-family: Nunito,sans-serif;
+    font-size: 105%;
+    margin: 0;
+}
+.footerpartthree > a {
+    color: white;
+    font-family: Nunito,sans-serif;
+    font-size: 105%;
+    margin: 0;
+    line-height: 35px;
+    text-decoration: none;
+}
+.inputsfooter {
+    width: 80%;
+    height: 7vh;
+    border-radius: 5px;
+    border: white;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.buttonsubmitnow {
+    border-radius: 40px;
+    background-color: #2fb0c5;
+    width: 84%;
+    height: 9vh;
+    box-shadow: 1px 9px 12px 2px #4a5470;
+    border: #2fb0c5;  
+}
+.submitnowA {
+    text-decoration: none;
+    color: #f6f8f8;
+    font-size: 145%;
+}
+.buttonsubmitnow:hover {
+    background-color: #17a2b8;
+}
+.footerend {
+    width: 100%;
+    height: 20vh;
+    background-color: #00394f;
+    border-top: 1px solid #3fa4ad80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footerend > a {
+    color: #2fb0c5;
+    text-decoration: none;
+    font-size: 110%;
+    font-weight: 600;
+    font-family: 'Roboto';
+}
+.footerend > a:hover {
+    color: #1c6d7a;
+}
+.footerend > span {
+    color: white;
+    font-size: 105%;
+    font-weight: 600;
+    font-family: 'Roboto';
+    margin-right: 5px;
+    margin-left: 5px;
+}
+@media screen and (max-width: 1232px) and (min-width: 1090px) {
+    .smallimgtext > p {
+        font-size: 85%;
+    }
+    .partthreetext {
+        height: 100vh;
+    }
+    .icontext {
+        width: 80%;
+    }
+    .maintext {
+        height: 65%;
+    }
+    .learnbutton {
+        width: 31%;
+        height: 12%;
+    }
+    .mainpng {
+        width: 38%;
+        height: 73%;
+    }
+}
+@media screen and (max-width: 1232px) and (min-width: 1132px) {
+    .divicontext {
+        width: 54%;
+    }
+}
+@media screen and (max-width: 1132px) and (min-width: 1032px) {
+    .divicontext {
+        width: 58%;
+    }
+}
+@media screen and (max-width: 1090px) and (min-width: 900px) {
+    .teddy {
+        width: 50px;
+        height: 50px;
+    }
+    .kidKinder {
+        font-size: 270%;
+    }
+    .teddykid {
+        width: 24%;
+    }
+    .headerLinks {
+        font-size: 17px;
+    }
+    .linksbutton {
+        width: 70%;
+    }
+    .icontext {
+        width: 90%;
+    }
+    .smallimgtext > p {
+        font-size: 80%;
+    }
+    .mainpng {
+        width: 44%;
+        height: 73%;
+    }
+}
+@media screen and (max-width: 990px) and (min-width: 890px) {
+    
+    .smallimgtext > p {
+       font-size: 72%;
+    }
+    .icontext {
+        width: 90%;
+    }
+    .smallimg {
+        width: 32%;
+        height: 115%;
+    }
+    .partthreebutton {
+        width: 25%;
+    }
+}
