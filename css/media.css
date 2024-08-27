@@ -1,0 +1,2374 @@
+@media screen and (max-width: 1232px) and (min-width: 1090px) {
+    .smallimgtext > p {
+        font-size: 85%;
+    }
+    .partthreetext {
+        height: 100vh;
+    }
+    .icontext {
+        width: 80%;
+    }
+    .maintext {
+        height: 60%;
+    }
+    .learnbutton {
+        width: 31%;
+        height: 12%;
+    }
+    .mainpng {
+        width: 38%;
+        height: 73%;
+    }
+}
+@media screen and (max-width: 1232px) and (min-width: 1132px) {
+    .divicontext {
+        width: 54%;
+    }
+}
+@media screen and (max-width: 1132px) and (min-width: 1032px) {
+    .divicontext {
+        width: 58%;
+    }
+}
+@media screen and (max-width: 1090px) and (min-width: 990px) {
+    .teddy {
+        width: 50px;
+        height: 50px;
+    }
+    .kidKinder {
+        font-size: 270%;
+    }
+    .teddykid {
+        width: 24%;
+    }
+    .headerLinks {
+        font-size: 17px;
+    }
+    .linksbutton {
+        width: 70%;
+    }
+    .icontext {
+        width: 90%;
+    }
+    .smallimgtext > p {
+        font-size: 80%;
+    }
+    .mainpng {
+        width: 44%;
+        height: 73%;
+    }
+    .maintext {
+        width: 46%;
+        height: 60%;
+    }
+    .learnbutton {
+        margin-top: 5%;
+    }
+    .blocks {
+        height: 45%;
+        width: 40%;
+        margin-bottom: 5%;
+    }
+    .divblocks {
+        justify-content: space-evenly;
+    }
+    .mainparttwo {
+        height: 130vh;
+        align-items: baseline;
+        margin-top: 7%;
+    }
+    .divicontext {
+        width: 62%;
+    }
+    .teddykidfooter {
+        width: 95%;
+    }
+    .teddyfooter {
+        width: 25%;
+        height: 10vh;
+    }
+    .kidKinderfooter {
+        font-size: 210%;
+    }
+    .socialdivs {
+        margin-top: 10px;
+    }
+    .footerinfo {
+        line-height: 40px;
+    }
+}
+@media screen and (max-width: 990px) and (min-width: 890px) {
+    
+    .smallimgtext > p {
+       font-size: 72%;
+    }
+    .icontext {
+        width: 90%;
+    }
+    .smallimg {
+        width: 32%;
+        height: 115%;
+    }
+    .partthreebutton {
+        width: 27%;
+        height: 8%;
+    }
+    .mainpng {
+        width: 50%;
+        height: 78%;
+    }
+    .newkids {
+        font-size: 280%;
+    }
+    .seaipsum {
+        font-size: 98%;
+    }
+    .learnbutton {
+        width: 35%;
+        height: 13%;
+    }
+    .maintext {
+        width: 42%;
+        height: 60%;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 23%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .divsimgtexth {
+        font-size: 150%; 
+    }
+    .bookAseatform {
+        font-size: 225%;
+    }
+    .joinNow {
+        margin-left: 25%;
+    }
+    .invidunttext {
+        font-size: 100%;
+    }
+    .BOOKASEAT {
+        height: 80vh;
+    }
+    .divicontext {
+        width: 71%;
+    }
+    .BOOKASEATFORM {
+        height: 78vh;
+    }
+    .teddyfooter {
+        width: 24%;
+        height: 9vh;
+    }
+    .kidKinderfooter {
+        font-size: 200%;
+    }
+    .labore {
+        font-size: 95%; 
+    }
+    .headerfooter {
+        font-size: 180%;
+    }
+    .footerinfo {
+        font-size: 125%;
+    }
+    .footerinfochild {
+        font-size: 100%;
+    }
+    .submitnowA {
+        font-size: 130%;
+    }
+    .buttonsubmitnow {
+        width: 80%;
+        height: 8vh;
+    }
+    .mainparttwo {
+        margin-bottom: 25%;
+    }
+    .textdiv {
+        margin-left: 33px;
+    }
+    .aboutus {
+        font-size: 400%;
+    }
+    .partthreeimg {
+        height: 85vh;
+    }
+    .partthreetext {
+        height: 90vh;
+    }
+    .smallimgtext > p {
+        font-size: 68%;
+    }
+    .gallerymain > img {
+        height: 40vh;
+    }
+    .gallerymaintwo > img {
+        height: 40vh;
+    }
+    .contactusbutton > a {
+        font-size: 108%;
+    }
+    .companyinfo {
+        height: 66vh;
+    }
+    .mainpartsix {
+        margin-left: 25px;
+    }
+}
+@media screen and (max-width: 890px) and (min-width: 790px) {
+    .smallimgtext > p {
+        font-size: 62%;
+    }
+    .smallimgtext {
+         height: 120%;
+    }
+    .contactusbutton {
+        width: 32%;
+    }
+    .contactusbutton > a {
+        font-size: 115%;
+    }
+    .mainpng {
+        width: 50%;
+        height: 75%;
+    }
+    .maintext {
+        width: 40%;
+        height: 65%;
+    }
+    .newkids {
+        font-size: 246%;
+    }
+    .seaipsum {
+        font-size: 95%;
+    }
+    .learnbutton {
+        width: 40%;
+        height: 13%;
+    }
+    .learnlink {
+        font-size: 95%;
+    }
+    .main {
+        height: 100vh;
+        padding-top: 8%;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 23%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .mainparttwo {
+        margin-bottom: 25%;
+    }
+    .blocks {
+        width: 47%;
+    }
+    .divblocks {
+        width: 90%;
+    }
+    .partthreeimg {
+        width: 35%;
+        height: 80vh;
+    }
+    .partthreetext {
+        height: 85vh;
+    }
+    .learnabout {
+        font-size: 105%;
+        font-weight: 600;
+    }
+    .bestschool {
+        font-size: 195%;
+    }
+    .invidunt {
+        font-size: 95%;
+    }
+    .icontext > span {
+        font-size: 85%;
+    }
+    .icontext {
+        width: 95%;
+    }
+    .imgtext {
+        margin-bottom: 10%;
+    }
+    .partthreebutton {
+        width: 28%;
+        height: 8%;
+    }
+    .partthreelink {
+        font-size: 95%;
+    }
+    .mainpartthree {
+        height: 90vh;
+    }
+    .blocks {
+        width: 45%;
+    }
+    .mainpartsix {
+        height: 60vh;
+        margin-left: 25px;
+    }
+    .mainpartfour {
+        flex-wrap: wrap;
+        height: 345vh;
+    }
+    .divs {
+        width: 80%;
+        height: 100vh;
+    }
+    .divsimgone {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtableone {
+        height: 70vh;
+    }
+    .divsimgtexth {
+        font-size: 200%;
+    }
+    .textdiv {
+        width: 85%;
+    }
+    .divsimgtwo {
+        height: 45vh;
+        background-position: 11% 15%;
+        margin-top: 10%;
+    }
+    .divsimgtabletwo {
+        height: 70vh;
+    }
+    .divsimgthree {
+        height: 45vh;
+        background-position: 11% 15%;
+        margin-top: 20%;
+    }
+    .divsimgtablethree {
+        height: 70vh;
+    }
+    .joinNow {
+        width: 140px;
+        margin-left: 39%;
+        margin-bottom: 5%;
+    }
+    .bookAseatform {
+        font-size: 210%;
+    }
+    .divicontext {
+        width: 83%;
+    }
+    .invidunttext {
+        font-size: 100%;
+    }
+    .BOOKASEAT {
+        width: 45%;
+    }
+    .BOOKASEATFORM {
+        height: 72vh;
+    }
+    .formbookaseatdiv {
+        height: 14vh;
+    }    
+    .formbookaseat {
+        font-size: 220%;
+    }
+    .childdivform {
+        margin-top: 45px;
+    }
+    .aboutus {
+        font-size: 350%;
+    }
+    .gallerymain > img {
+        height: 35vh;
+    }
+    .gallerymaintwo > img {
+        height: 35vh;
+    }
+    .gallerymain {
+        height: 35vh;
+    }
+    .gallerymaintwo {
+        height: 35vh;
+    }    
+    .footer {
+        height: 110vh;
+        flex-wrap: wrap;
+    }
+    .footerpartone {
+        width: 37%;
+        height: 45vh;
+    }
+    .footerparttwo {
+        width: 28%;
+        height: 45vh;
+    }
+    .footerpartthree {
+        width: 20%;
+        height: 45vh;
+        }
+    .footerpartfour {
+        width: 80%;
+        height: 45vh;
+        margin-left: 15%;
+    }
+    .inputsfooter {
+        margin-top: 0;
+    }
+    .buttonsubmitnow {
+        width: 80%;
+        height: 8vh;
+    }
+    .footerend {
+        height: 15vh;
+    }
+    .mainpartfive {
+        height: 90vh;
+        margin-top: 25%;
+    }
+}
+@media screen and (max-width: 790px) and (min-width: 690px) {
+    .smallimgtext > p {
+        font-size: 78%;
+    }
+    .smallimgtext {
+        height: 80%;
+        width: 55%;
+    }
+    .mainpng {
+        width: 55%;
+        height: 78%;
+    }
+    .maintext {
+        width: 35%;
+        height: 65%;
+    }
+    .newkids {
+        font-size: 186%;
+    }
+    .seaipsum {
+        font-size: 86%;
+    }
+    .learnbutton {
+        width: 50%;
+        height: 12%;
+    }
+    .learnlink {
+        font-size: 90%;
+    }
+    .main {
+        height: 90vh;
+        padding-top: 8%;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 23%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .mainparttwo {
+        margin-bottom: 25%;
+    }
+    .blocks {
+        width: 47%;
+    }
+    .divblocks {
+        width: 90%;
+    }
+    .partthreeimg {
+        width: 65%;
+        height: 95vh;
+    }
+    .partthreetext {
+        height: 75vh;
+        width: 85%;
+        margin-top: 12%;
+    }
+    .learnabout {
+        font-size: 85%;
+        font-weight: 600;
+        width: 30%;
+    }
+    .bestschool {
+        font-size: 165%;
+        width: 48%;
+    }
+    .invidunt {
+        font-size: 90%;
+    }
+    .icontext > span {
+        font-size: 85%;
+    }
+    .icontext {
+        width: 85%;
+    }
+    .imgtext {
+        margin-bottom: 10%;
+        height: 40%;
+        justify-content: space-between;
+        margin-bottom: 0%;
+    }
+    .partthreebutton {
+        width: 28%;
+        height: 11%;
+    }
+    .partthreelink {
+        font-size: 95%;
+    }
+    .mainpartthree {
+        height: 185vh;
+        flex-wrap: wrap;
+    }
+    .blocks {
+        width: 46%;
+    }
+    .mainpartsix {
+        height: 60vh;
+        margin-left: 25px;
+        flex-wrap: wrap;
+        height: 132vh;
+    }
+    .mainpartfour {
+        flex-wrap: wrap;
+        height: 345vh;
+    }
+    .divs {
+        width: 80%;
+        height: 100vh;
+        margin-bottom: 20%;
+    }
+    .divsimgone {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtableone {
+        height: 70vh;
+    }
+    .divsimgtexth {
+        font-size: 200%;
+    }
+    .textdiv {
+        width: 85%;
+    }
+    .divsimgtwo {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtabletwo {
+        height: 70vh;
+    }
+    .divsimgthree {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtablethree {
+        height: 70vh;
+    }
+    .joinNow {
+        width: 140px;
+        margin-left: 39%;
+        margin-bottom: 5%;
+    }
+    .bookAseatform {
+        font-size: 180%;
+    }
+    .divicontext {
+        width: 90%;
+    }
+    .divicontext > span {
+        font-size: 100%;
+    }
+    .invidunttext {
+        font-size: 95%;
+    }
+    .BOOKASEAT {
+        width: 45%;
+    }
+    .BOOKASEATFORM {
+        height: 70vh;
+        width: 40%;
+    }
+    .formbookaseatdiv {
+        height: 14vh;
+    }    
+    .formbookaseat {
+        font-size: 220%;
+    }
+    .childdivform {
+        margin-top: 45px;
+    }
+    .aboutus {
+        font-size: 350%;
+    }
+    .gallerymain > img {
+        height: 40vh;
+        width: 50vh;
+    }
+    .gallerymaintwo > img {
+        height: 40vh;
+        width: 50vh;
+    }
+    .gallerymain {
+        height: 90vh;
+        flex-wrap: wrap;
+    }
+    .gallerymaintwo {
+        height: 90vh;
+        flex-wrap: wrap;
+    }    
+    .footer {
+        height: 110vh;
+        flex-wrap: wrap;
+    }
+    .footerpartone {
+        width: 37%;
+        height: 45vh;
+    }
+    .footerparttwo {
+        width: 28%;
+        height: 45vh;
+    }
+    .footerpartthree {
+        width: 20%;
+        height: 45vh;
+        }
+    .footerpartfour {
+        width: 80%;
+        height: 45vh;
+        margin-left: 15%;
+    }
+    .inputsfooter {
+        margin-top: 0;
+    }
+    .buttonsubmitnow {
+        width: 80%;
+        height: 8vh;
+    }
+    .footerend {
+        height: 15vh;
+    }  
+    .kidslearning {
+        font-size: 115%;
+    } 
+    .blocks > img {
+        width: 15%;
+        margin-bottom: 30%;
+    }
+    .blocksheader {
+        font-size: 110%;
+    }
+    .blockstext {
+        font-size: 92%;
+    }
+    .smallimg {
+        width: 35%;
+        height: 80%;
+    }
+    .icon {
+        width: 8%;
+    }
+    .texts {
+        height: 25vh;
+    }    
+    .mainpartfive {
+        margin-top: 10%;
+    }
+    .buttonbooknow {
+        height: 8vh;
+    }
+    .card {
+        width: 35%;
+    }
+    .contactusmain {
+        flex-wrap: wrap;
+        height: 125vh;
+    }
+    .contactusform {
+        width: 80%;
+    }
+    .companyinfo {
+        width: 80%;
+        height: 45vh;
+    }
+    .mainpartsixheader {
+        margin-bottom: 0%;
+    }
+    .companyinfochild {
+        display: flex;
+        flex-wrap: wrap;
+        height: 25vh;
+        width: 110%;
+    }
+    .divinfo {
+        width: 50%;
+    }
+    .infoalldiv {
+        height: 9vh;
+        width: 80%;
+    }
+    .infoheader {
+        font-size: 126%;
+    }
+}   
+@media screen and (max-width: 690px) and (min-width: 590px) {
+    .smallimgtext > p {
+        font-size: 65%;
+    }
+    .smallimgtext {
+        height: 80%;
+        width: 58%;
+    }
+    .mainpng {
+        width: 75%;
+        height: 50%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    .maintext {
+        width: 70%;
+        height: 37%;
+        align-items: center;
+    }
+    .newkids {
+        font-size: 210%;
+    }
+    .seaipsum {
+        font-size: 100%;
+        width: 93%;
+    }
+    .learnbutton {
+        width: 40%;
+        height: 14%;
+    }
+    .learnlink {
+        font-size: 90%;
+    }
+    .main {
+        height: 170vh;
+        padding-top: 20%;
+        flex-direction: column;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 23%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .mainparttwo {
+        margin-bottom: 7%;
+        height: 270vh;
+    }
+    .blocks {
+        width: 47%;
+    }
+    .divblocks {
+        width: 90%;
+        height: 270vh;
+        margin-top: 5%;
+    }
+    .partthreeimg {
+        width: 65%;
+        height: 95vh;
+    }
+    .partthreetext {
+        height: 75vh;
+        width: 85%;
+    }
+    .learnabout {
+        font-size: 85%;
+        font-weight: 600;
+        width: 40%;
+    }
+    .bestschool {
+        font-size: 180%;
+        width: 65%;
+    }
+    .invidunt {
+        font-size: 90%;
+    }
+    .icontext > span {
+        font-size: 82%;
+    }
+    .icontext {
+        width: 88%;
+    }
+    .imgtext {
+        margin-bottom: 10%;
+        height: 40%;
+        justify-content: space-between;
+        margin-bottom: 0%;
+    }
+    .partthreebutton {
+        width: 28%;
+        height: 11%;
+    }
+    .partthreelink {
+        font-size: 95%;
+    }
+    .mainpartthree {
+        height: 175vh;
+        flex-wrap: wrap;
+    }
+    .blocks {
+        width: 75%;
+        height: 14%;
+    }
+    .mainpartsix {
+        height: 60vh;
+        margin-left: 25px;
+        flex-wrap: wrap;
+        height: 120vh;
+    }
+    .mainpartfour {
+        flex-wrap: wrap;
+        height: 345vh;
+    }
+    .divs {
+        width: 80%;
+        height: 100vh;
+        margin-bottom: 20%;
+    }
+    .divsimgone {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtableone {
+        height: 70vh;
+    }
+    .divsimgtexth {
+        font-size: 200%;
+    }
+    .textdiv {
+        width: 85%;
+    }
+    .divsimgtwo {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtabletwo {
+        height: 70vh;
+    }
+    .divsimgthree {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtablethree {
+        height: 70vh;
+    }
+    .joinNow {
+        width: 140px;
+        margin-left: 35%;
+        margin-bottom: 5%;
+    }
+    .bookAseatform {
+        font-size: 180%;
+    }
+    .divicontext {
+        width: 76%;
+    }
+    .divicontext > span {
+        font-size: 100%;
+    }
+    .invidunttext {
+        font-size: 95%;
+    }
+    .BOOKASEAT {
+        width: 80%;
+        height: 62vh;
+        margin-left: 5%;
+    }
+    .BOOKASEATFORM {
+        height: 70vh;
+        width: 75%;
+    }
+    .formbookaseatdiv {
+        height: 14vh;
+    }    
+    .formbookaseat {
+        font-size: 220%;
+    }
+    .childdivform {
+        margin-top: 45px;
+        height: 43vh;
+    }
+    .aboutus {
+        font-size: 300%;
+    }
+    .gallerymain > img {
+        height: 45vh;
+        width: 75vh;
+    }
+    .gallerymaintwo > img {
+        height: 45vh;
+        width: 75vh;
+    }
+    .gallerymain {
+        height: 155vh;
+        flex-wrap: wrap;
+    }
+    .gallerymaintwo {
+        height: 155vh;
+        flex-wrap: wrap;
+        margin-bottom: 0;
+    }    
+    .footer {
+        height: 110vh;
+        flex-wrap: wrap;
+    }
+    .footerpartone {
+        width: 50%;
+        height: 45vh;
+        margin-left: 4%;
+    }
+    .footerparttwo {
+        width: 32%;
+        height: 45vh;
+    }
+    .footerpartthree {
+        width: 25%;
+        height: 45vh;
+        margin-left: 4%;
+    }
+    .footerpartfour {
+        width: 40%;
+        height: 45vh;
+        margin-left: 5%;
+    }
+    .inputsfooter {
+        margin-top: 0;
+    }
+    .buttonsubmitnow {
+        width: 80%;
+        height: 7vh;
+    }
+    .footerend {
+        height: 15vh;
+    }  
+    .kidslearning {
+        font-size: 125%;
+    } 
+    .blocks > img {
+        width: 15%;
+        margin-bottom: 15%;
+    }
+    .blocksheader {
+        font-size: 150%;
+    }
+    .blockstext {
+        font-size: 110%;
+    }
+    .smallimg {
+        width: 38%;
+        height: 80%;
+    }
+    .icon {
+        width: 8%;
+    }
+    .texts {
+        height: 25vh;
+    }    
+    .mainpartfive {
+        margin-top: 10%;
+        height: 150vh;
+        flex-wrap: wrap;
+    }
+    .buttonbooknow {
+        height: 8vh;
+    }
+    .card {
+        width: 35%;
+        height: 60vh;
+    }
+    .contactusmain {
+        flex-wrap: wrap;
+        height: 125vh;
+    }
+    .contactusform {
+        width: 80%;
+    }
+    .companyinfo {
+        width: 80%;
+        height: 47vh;
+    }
+    .mainpartsixheader {
+        margin-bottom: 0%;
+    }
+    .companyinfochild {
+        display: flex;
+        flex-wrap: wrap;
+        height: 25vh;
+        width: 110%;
+    }
+    .divinfo {
+        width: 50%;
+    }
+    .infoalldiv {
+        height: 9vh;
+        width: 80%;
+    }
+    .infoheader {
+        font-size: 116%;
+    }
+    .diviconstexts {
+        width: 75%;
+    }
+    .footerinfo {
+        line-height: 35px;
+    }
+    .footerend > a {
+        font-size: 100%;
+    }
+    .footerend > span {
+        font-size: 100%;
+    }
+    .divblocktext {
+        height: 70%;
+    }
+    .footerpartthree > a {
+        line-height: 30px;
+    }
+    .submitnowA {
+        font-size: 135%;
+    }
+    .contactusbutton > a {
+        font-size: 110%;
+    }
+    .infochild {
+        font-size: 90%;
+    }
+    .imgcompanyinfo {
+        width: 37px;
+        height: 6vh;
+    }
+}
+@media screen and (max-width: 590px) and (min-width: 490px) {
+    .smallimgtext > p {
+        font-size: 80%;
+    }
+    .smallimgtext {
+        width: 90%;
+        height: 35%;
+    }
+    .mainpng {
+        width: 78%;
+        height: 48%;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .maintext {
+        width: 73%;
+        height: 37%;
+        align-items: center;
+    }
+    .newkids {
+        font-size: 195%;
+    }
+    .seaipsum {
+        font-size: 95%;
+        width: 95%;
+    }
+    .learnbutton {
+        width: 40%;
+        height: 14%;
+    }
+    .learnlink {
+        font-size: 90%;
+    }
+    .main {
+        height: 155vh;
+        padding-top: 20%;
+        flex-direction: column;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 23%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .mainparttwo {
+        margin-bottom: 25%;
+        height: 260vh;
+        margin-top: 10%;
+    }
+    .blocks {
+        width: 47%;
+    }
+    .divblocks {
+        width: 90%;
+        height: 270vh;
+        margin-top: 25%;
+    }
+    .partthreeimg {
+        width: 76%;
+        height: 90vh;
+    }
+    .partthreetext {
+        height: 90vh;
+        width: 84%;
+        margin-left: 8%;
+        margin-top: 5%;
+    }
+    .mainpartfourheader {
+        margin-top: 13%;
+    }
+    .learnabout {
+        font-size: 80%;
+        font-weight: 700;
+
+        width: 40%;
+    }
+    .bestschool {
+        font-size: 170%;
+        width: 70%;
+    }
+    .invidunt {
+        font-size: 88%;
+    }
+    .icontext > span {
+        font-size: 90%;
+    }
+    .icontext {
+        width: 75%;
+    }
+    .imgtext {
+        margin-bottom: 10%;
+        justify-content: space-between;
+        margin-bottom: 0%;
+        flex-direction: column;
+        height: 48%;
+    }
+    .partthreebutton {
+        width: 30%;
+        height: 8%;
+        margin-top: 7%;
+    }
+    .partthreelink {
+        font-size: 95%;
+    }
+    .mainpartthree {
+        height: 175vh;
+        flex-wrap: wrap;
+    }
+    .blocks {
+        width: 75%;
+        height: 14%;
+    }
+    .mainpartsix {
+        height: 60vh;
+        margin-left: 17px;
+        flex-wrap: wrap;
+        height: 120vh;
+    }
+    .mainpartfour {
+        flex-wrap: wrap;
+        height: 345vh;
+    }
+    .divs {
+        width: 80%;
+        height: 100vh;
+        margin-bottom: 25%;
+    }
+    .divsimgone {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtableone {
+        height: 70vh;
+    }
+    .divsimgtexth {
+        font-size: 200%;
+    }
+    .textdiv {
+        width: 85%;
+    }
+    .divsimgtwo {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtabletwo {
+        height: 70vh;
+    }
+    .divsimgthree {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtablethree {
+        height: 70vh;
+    }
+    .joinNow {
+        width: 140px;
+        margin-left: 32%;
+        margin-bottom: 5%;
+    }
+    .bookAseatform {
+        font-size: 180%;
+    }
+    .divicontext {
+        width: 100%;
+    }
+    .divicontext > span {
+        font-size: 100%;
+    }
+    .invidunttext {
+        font-size: 95%;
+    }
+    .BOOKASEAT {
+        width: 80%;
+        height: 62vh;
+        margin-left: 5%;
+        margin-top: 15%;
+    }
+    .BOOKASEATFORM {
+        height: 70vh;
+        width: 75%;
+        margin-top: 5%;
+    }
+    .formbookaseatdiv {
+        height: 14vh;
+    }    
+    .formbookaseat {
+        font-size: 220%;
+    }
+    .childdivform {
+        margin-top: 45px;
+        height: 43vh;
+    }
+    .aboutus {
+        font-size: 250%;
+    }
+    .aboutandhome {
+        font-size: 17px; 
+    }
+    .aboutdiv {
+        height: 15vh;
+    }
+    .gallerymain > img {
+        height: 40vh;
+        width: 70vh;
+    }
+    .gallerymaintwo > img {
+        height: 40vh;
+        width: 70vh;
+    }
+    .gallerymain {
+        height: 155vh;
+        flex-wrap: wrap;
+    }
+    .gallerymaintwo {
+        height: 155vh;
+        flex-wrap: wrap;
+        margin-bottom: 0;
+    }    
+    .footer {
+        height: 110vh;
+        flex-wrap: wrap;
+    }
+    .teddyfooter {
+        width: 27%;
+        height: 10vh;
+    }
+    .kidKinderfooter {
+        font-size: 205%;
+    }
+    .footerpartone {
+        width: 45%;
+        height: 45vh;
+        margin-left: 0%;
+    }
+    .footerparttwo {
+        height: 45vh;
+        width: 35%;
+    }
+    .footerpartthree {
+        width: 30%;
+        height: 45vh;
+        margin-left: 4%;
+    }
+    .footerpartfour {
+        height: 45vh;
+        margin-left: 5%;
+        width: 40%;
+    }
+    .inputsfooter {
+        margin-top: 0;
+        width: 90%;
+        height: 6vh;
+    }
+    .inputsfooter::placeholder {
+        font-size: 100%;
+    }
+    .buttonsubmitnow {
+        width: 95%;
+        height: 6vh;
+    }
+    .footerend {
+        height: 15vh;
+    }  
+    .kidslearning {
+        font-size: 120%;
+    } 
+    .blocks > img {
+        width: 15%;
+        margin-bottom: 15%;
+    }
+    .blocksheader {
+        font-size: 150%;
+    }
+    .divicontext {
+        justify-content: flex-start;
+    }
+    .icons {
+        margin-right: 5%;
+
+    }
+    .blockstext {
+        font-size: 110%;
+    }
+    .smallimg {
+        width: 45%;
+        height: 52%;
+    }
+    .icon {
+        width: 8%;
+    }
+    .texts {
+        height: 27vh;
+    }    
+    .mainpartfive {
+        margin-top: 10%;
+        height: 150vh;
+        flex-wrap: wrap;
+        margin-bottom: 8%;
+    }
+    .buttonbooknow {
+        height: 8vh;
+    }
+    .card {
+        width: 35%;
+        height: 60vh;
+    }
+    .textdiv {
+        margin-left: 25px;
+    }
+    .contactusmain {
+        flex-wrap: wrap;
+        height: 125vh;
+    }
+    .contactusform {
+        width: 80%;
+    }
+    .companyinfo {
+        width: 80%;
+        height: 47vh;
+    }
+    .mainpartsixheader {
+        margin-bottom: 0%;
+    }
+    .companyinfochild {
+        display: flex;
+        flex-wrap: wrap;
+        height: 25vh;
+        width: 110%;
+    }
+    .divinfo {
+        width: 50%;
+    }
+    .infoalldiv {
+        height: 9vh;
+        width: 80%;
+    }
+    .infoheader {
+        font-size: 116%;
+    }
+    .diviconstexts {
+        width: 75%;
+    }
+    .footerinfo {
+        line-height: 35px;
+        font-size: 125%;
+    }
+    .footerend > a {
+        font-size: 100%;
+    }
+    .footerend > span {
+        font-size: 100%;
+    }
+    .divblocktext {
+        height: 70%;
+    }
+    .footerpartthree > a {
+        line-height: 30px;
+    }
+    .submitnowA {
+        font-size: 115%;
+    }
+    .contactusbutton > a {
+        font-size: 110%;
+    }
+    .infochild {
+        font-size: 90%;
+    }
+    .imgcompanyinfo {
+        width: 37px;
+        height: 6vh;
+    }
+    .teddykidfooter {
+        margin-left: -4%;
+        height: 10vh;
+    }
+    .labore {
+        font-size: 95%;
+    }
+    .headerfooter {
+        font-size: 175%;
+        letter-spacing: -1px;
+        margin-top: 20px;
+    }
+    .footerinfochild {
+        font-size: 95%;
+    }
+}
+@media screen and (max-width: 490px) and (min-width: 390px) {
+    .smallimgtext > p {
+        font-size: 73%;
+    }
+    .smallimgtext {
+        height: 40%;
+        width: 90%;
+    }
+    .mainpng {
+        width: 83%;
+        height: 45%;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .maintext {
+        width: 73%;
+        height: 37%;
+        align-items: center;
+    }
+    .newkids {
+        font-size: 180%;
+    }
+    .seaipsum {
+        font-size: 90%;
+        width: 95%;
+    }
+    .learnbutton {
+        width: 42%;
+        height: 13%;
+    }
+    .learnlink {
+        font-size: 90%;
+    }
+    .main {
+        height: 155vh;
+        padding-top: 20%;
+        flex-direction: column;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 23%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .mainparttwo {
+        margin-bottom: 25%;
+        height: 260vh;
+        margin-top: 10%;
+    }
+    .blocks {
+        width: 47%;
+    }
+    .divblocks {
+        width: 90%;
+        height: 270vh;
+        margin-top: 25%;
+    }
+    .partthreeimg {
+        width: 80%;
+        height: 70vh;
+    }
+    .partthreetext {
+        height: 105vh;
+        width: 84%;
+        margin-left: 8%;
+        margin-top: 15%;
+        justify-content: flex-start;
+    }
+    .mainpartfourheader {
+        margin-top: 13%;
+    }
+    .learnabout {
+        font-size: 75%;
+        font-weight: 700;
+        width: 50%;
+    }
+    .bestschool {
+        font-size: 150%;
+        width: 90%;
+        letter-spacing: -1px;
+    }
+    .invidunt {
+        font-size: 84%;
+    }
+    .icontext > span {
+        font-size: 85%;
+    }
+    .icontext {
+        width: 100%;
+    }
+    .imgtext {
+        margin-bottom: 10%;
+        justify-content: space-between;
+        margin-bottom: 0%;
+        flex-direction: column;
+        height: 35%;
+    }
+    .partthreebutton {
+        width: 33%;
+        height: 7%;
+        margin-top: 7%;
+    }
+    .popular {
+        font-size: 85%;
+    }
+    .classes {
+        font-size: 175%;
+    }
+    .partthreelink {
+        font-size: 88%;
+    }
+    .contactusbutton {
+    width: 40%;
+    height: 7vh;
+    }
+    .mainpartthree {
+        height: 155vh;
+        flex-wrap: wrap;
+    }
+    .blocks {
+        width: 90%;
+        height: 13%;
+    } 
+    .mainpartsix {
+        height: 105vh;
+        margin-left: 10px;
+        flex-wrap: wrap;
+    }
+    .mainpartfour {
+        flex-wrap: wrap;
+        height: 345vh;
+    }
+    .teddykidfooter {
+        width: 100%;
+        justify-content: flex-start;
+    }
+    .divs {
+        width: 80%;
+        height: 100vh;
+        margin-bottom: 30%;
+    }
+    .divsimgone {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtableone {
+        height: 70vh;
+    }
+    .divsimgtexth {
+        font-size: 185%;
+    }
+    .textdiv {
+        width: 85%;
+    }
+    .divsimgtwo {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtabletwo {
+        height: 70vh;
+    }
+    .divsimgthree {
+        height: 45vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtablethree {
+        height: 70vh;
+    }
+    .joinNow {
+        width: 140px;
+        margin-left: 29%;
+        margin-bottom: 5%;
+    }
+    .headerbutton { 
+        font-size: 16px;
+    }
+    .bookAseatform {
+        font-size: 180%;
+    }
+    .divicontext {
+        width: 115%;
+    }
+    .divicontext > span {
+        font-size: 95%;
+    }
+    .invidunttext {
+        font-size: 95%;
+    }
+    .BOOKASEAT {
+        width: 80%;
+        height: 75vh;
+        margin-left: 5%;
+        margin-top: 15%;
+    }
+    .BOOKASEATFORM {
+        height: 70vh;
+        width: 75%;
+        margin-top: 5%;
+    }
+    .formbookaseatdiv {
+        height: 14vh;
+    }    
+    .formbookaseat {
+        font-size: 220%;
+    }
+    .childdivform {
+        margin-top: 45px;
+        height: 43vh;
+    }
+    .aboutus {
+        font-size: 200%;
+        letter-spacing: -1px;
+    }
+    .aboutandhome {
+        font-size: 15px;
+    }
+    .aboutdiv {
+        height: 15vh;
+    }
+    .gallerymain > img {
+        height: 45vh;
+        width: 56vh;
+    }
+    .gallerymaintwo > img {
+        height: 45vh;
+        width: 56vh;
+    }
+    .gallerymain {
+        height: 155vh;
+        flex-wrap: wrap;
+    }
+    .gallerymaintwo {
+        height: 155vh;
+        flex-wrap: wrap;
+        margin-bottom: 0;
+    }    
+    .footer {
+        height: 110vh;
+        flex-wrap: wrap;
+        
+    }
+    .teddyfooter {
+        width: 25%;
+        height: 9vh;
+        margin-right: 3%;
+    }
+    .kidKinderfooter {
+        font-size: 180%;
+    }
+    .footerpartone {
+        width: 45%;
+        height: 45vh;
+        margin-left: 0%;
+    }
+    .footerparttwo {
+        height: 45vh;
+        width: 35%;
+    }
+    .footerpartthree {
+        width: 30%;
+        height: 45vh;
+        margin-left: 4%;
+    }
+    .footerpartfour {
+        height: 45vh;
+        margin-left: 5%;
+        width: 40%;
+    }
+    .inputsfooter {
+        margin-top: 0;
+        width: 90%;
+        height: 6vh;
+    }
+    .inputsfooter::placeholder {
+        font-size: 100%;
+    }
+    .buttonsubmitnow {
+        width: 95%;
+        height: 6vh;
+    }
+    .footerend {
+        height: 15vh;
+    }  
+    .kidslearning {
+        font-size: 115%;
+    } 
+    .blocks > img {
+        width: 16%;
+        margin-bottom: 20%;
+    }
+    .blocksheader {
+        font-size: 125%;
+    }
+    .divicontext {
+        justify-content: flex-start;
+    }
+    .icons {
+        margin-right: 5%;
+
+    }
+    .blockstext {
+        font-size: 95%;
+    }
+    .smallimg {
+        width: 48%;
+        height: 50%;
+    }
+    .icon {
+        width: 8%;
+        height: 110%;
+        margin-right: 4%;
+    }
+    .icontext {
+        justify-content: flex-start;
+    }
+    .texts {
+        height: 30vh;
+    }    
+    .mainpartfive {
+        margin-top: 10%;
+        height: 150vh;
+        flex-wrap: wrap;
+        margin-bottom: 20%;
+    }
+    .buttonbooknow {
+        height: 8vh;
+    }
+    .card {
+        width: 40%;
+        height: 50vh;
+    }
+    .p {
+        font-size: 106%;
+    }
+    .textdiv {
+        margin-left: 25px;
+    }
+    .contactusmain {
+        flex-wrap: wrap;
+        height: 155vh;
+    }
+    .contactusform {
+        width: 80%;
+    }
+    .pheader {
+        font-size: 150%;
+        letter-spacing: -1px;
+    }
+    .companyinfo {
+        width: 80%;
+        height: 70vh;
+    }
+    .mainpartsixheader {
+        margin-bottom: 0%;
+    }
+    .companyinfochild {
+        display: flex;
+        flex-wrap: wrap;
+        height: 42vh;
+        width: 110%;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .divinfo {
+        width: 85%;
+    }
+    .infoalldiv {
+        height: 9vh;
+        width: 80%;
+    }
+    .infoheader {
+        font-size: 116%;
+    }
+    .diviconstexts {
+        width: 75%;
+    }
+    .footerinfo {
+        line-height: 35px;
+        font-size: 118%;
+    }
+    .footerend > a {
+        font-size: 75%;
+    }
+    .footerend > span {
+        font-size: 75%;
+    }
+    .divblocktext {
+        height: 70%;
+    }
+    .footerpartthree > a {
+        line-height: 28px;
+        font-size: 100%;
+    }
+    .submitnowA {
+        font-size: 115%;
+    }
+    .contactusbutton > a {
+        font-size: 100%;
+    }
+    .infochild {
+        font-size: 90%;
+    }
+    .imgcompanyinfo {
+        width: 40px;
+        height: 7vh;
+    }
+    .teddykidfooter {
+        margin-left: -4%;
+        height: 10vh;
+    }
+    .labore {
+        font-size: 95%;
+    }
+    .headerfooter {
+        font-size: 142%;
+        letter-spacing: -1px;
+        margin-top: 25px;
+        margin-bottom: 22px;
+    }
+    .footerinfochild {
+        font-size: 95%;
+    }
+}
+@media screen and (max-width: 390px) and (min-width: 300px) {
+    .smallimgtext > p {
+        font-size: 57%;
+    }
+    .smallimgtext {
+        height: 40%;
+        width: 90%;
+    }
+    .mainpng {
+        width: 83%;
+        height: 40%;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .maintext {
+        width: 78%;
+        height: 50%;
+        align-items: center;
+    }
+    .newkids {
+        font-size: 160%;
+    }
+    .seaipsum {
+        font-size: 85%;
+        width: 100%;
+        margin-left: 3%;
+    }
+    .learnbutton {
+        width: 50%;
+        height: 12%;
+    }
+    .learnlink {
+        font-size: 90%;
+    }
+    .main {
+        height: 125vh;
+        padding-top: 30%;
+        flex-direction: column;
+    }
+    .divblocks {
+        width: 80%;
+        height: 120vh;
+        justify-content: space-around;
+        margin-top: 0%;
+    }
+    .blocks {
+        height: 28%;
+        width: 45%;
+    }
+    .mainparttwo {
+        margin-bottom: 15%;
+        height: 215vh;
+        margin-top: 10%;
+    }
+    .blocks {
+        width: 47%;
+    }
+    .divblocks {
+        width: 90%;
+        height: 220vh;
+        margin-top: 0%;
+    }
+    .partthreeimg {
+        width: 80%;
+        height: 70vh;
+    }
+    .partthreetext {
+        height: 105vh;
+        width: 84%;
+        margin-left: 8%;
+        margin-top: 15%;
+        justify-content: flex-start;
+    }
+    .mainpartfourheader {
+        margin-top: 13%;
+    }
+    .learnabout {
+        font-size: 72%;
+        font-weight: 700;
+        width: 65%;
+    }
+    .bestschool {
+        font-size: 140%;
+        width: 100%;
+        letter-spacing: -1px;
+    }
+    .invidunt {
+        font-size: 78%;
+    }
+    .icontext > span {
+        font-size: 70%;
+    }
+    .icontext {
+        width: 100%;
+    }
+    .imgtext {
+        margin-bottom: 10%;
+        justify-content: space-between;
+        margin-bottom: 0%;
+        flex-direction: column;
+        height: 35%;
+    }
+    .partthreebutton {
+        width: 38%;
+        height: 6%;
+        margin-top: 7%;
+    }
+    .popular {
+        font-size: 60%;
+    }
+    .mainpartfourheader {
+        height: 20vh;
+    }    
+    .classes {
+        font-size: 130%;
+    }
+    .partthreelink {
+        font-size: 80%;
+    }
+    .contactusbutton {
+        width: 45%;
+        height: 7vh;
+    }
+    .mainpartthree {
+        height: 155vh;
+        flex-wrap: wrap;
+    }
+    .contactusinput::placeholder {
+        font-size: 95%;
+    }
+    .textareamessage::placeholder {
+        font-size: 95%;
+    }
+    .companyinfo > p {
+        font-size: 90%;
+    }
+    .blocks {
+        width: 90%;
+        height: 14%;
+    } 
+    .mainpartsixheader {
+        height: 15vh; 
+    }    
+    .mainpartsix {
+        height: 80vh;
+        margin-left: 10px;
+        flex-wrap: wrap;
+    }
+    .mainpartfour {
+        flex-wrap: wrap;
+        height: 330vh;
+    }
+    .bookAseat {
+        font-size: 80%;
+        font-weight: 600;
+    }
+    .teddykidfooter {
+        width: 100%;
+        justify-content: flex-start;
+    }
+    .divs {
+        width: 80%;
+        height: 100vh;
+        margin-bottom: 30%;
+    }
+    .divsimgone {
+        height: 35vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtableone {
+        height: 70vh;
+    }
+    .divsimgtext {
+        font-size: 90%;
+    }
+    .divsimgtexth {
+        font-size: 150%;
+    }
+    .textdiv {
+        width: 85%;
+    }
+    .divsimgtwo {
+        height: 35vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtabletwo {
+        height: 70vh;
+    }
+    .divsimgthree {
+        height: 35vh;
+        background-position: 11% 15%;
+    }
+    .divsimgtablethree {
+        height: 70vh;
+    }
+    .joinNow {
+        width: 100px;
+        height: 35px;
+        margin-left: 30%;
+        margin-bottom: 5%;
+    }
+    .headerbutton { 
+        font-size: 15px;
+    }
+    .bookAseatform {
+        font-size: 145%;
+    }
+    .divicontext {
+        width: 136%;
+    }
+    .divicontext > span {
+        font-size: 85%;
+    }
+    .invidunttext {
+        font-size: 85%;
+    }
+    .BOOKASEAT {
+        width: 80%;
+        height: 75vh;
+        margin-left: 5%;
+        margin-top: 15%;
+    }
+    .icons {
+        width: 8%;
+        height: 3vh;
+    }
+    .booknow {
+        width: 120px;
+        height: 35px;
+    }
+    .BOOKASEATFORM {
+        height: 60vh;
+        width: 75%;
+        margin-top: 5%;
+    }
+    .formbookaseatdiv {
+        height: 14vh;
+    }    
+    .formbookaseat {
+        font-size: 190%;
+    }
+    .childdivform {
+        margin-top: 30px;
+        height: 35vh;
+    }
+    .inputs {
+        height: 6vh;
+        width: 79%;
+    }
+    .select {
+        width: 82%;
+        height: 7vh;
+    }
+    .aboutus {
+        font-size: 160%;
+        letter-spacing: -1px;
+    }
+    .aboutandhome {
+        font-size: 10px;
+    }
+    .aboutdiv {
+        height: 15vh;
+        width: 70%;
+        margin-top: 20%;
+    }
+    .gallerymain > img {
+        height: 32vh;
+        width: 45vh;
+    }
+    .gallerymaintwo > img {
+        height: 32vh;
+        width: 45vh;
+    }
+    .gallerymain {
+        height: 115vh;
+        flex-wrap: wrap;
+    }
+    .gallerymaintwo {
+        height: 115vh;
+        flex-wrap: wrap;
+        margin-bottom: 0;
+    }    
+    .footer {
+        height: 165vh;
+        flex-wrap: wrap;
+        padding-top: 8%;
+    }
+    .socialdivs {
+        margin-top: 0px;
+    }
+    .teddyfooter {
+        width: 24%;
+        height: 8vh;
+        margin-right: 3%;
+    }
+    .kidKinderfooter {
+        font-size: 165%;
+    }
+    .footerpartone {
+        width: 60%;
+        height: 40vh;
+        margin-left: 7%;
+    }
+    .footerparttwo {
+        height: 35vh;
+        width: 55%;
+        margin-left: 16%;
+    }
+    .footerpartthree {
+        width: 70%;
+        height: 30vh;
+        margin-left: 30%;
+    }
+    .footerpartfour {
+        height: 35vh;
+        margin-left: 20%;
+        width: 65%;
+    }
+    .inputsfooter {
+        margin-top: 0;
+        width: 70%;
+        height: 6vh;
+    }
+    .inputsfooter::placeholder {
+        font-size: 100%;
+    }
+    .buttonsubmitnow {
+        width: 75%;
+        height: 6vh;
+    }
+    .footerend {    
+        height: 10vh;
+    }  
+    .kidslearning {
+        font-size: 100%;
+    } 
+    .blocks > img {
+        width: 18%;
+        margin-bottom: 28%;
+    }
+    .blocksheader {
+        font-size: 110%;
+    }
+    .divicontext {
+        justify-content: flex-start;
+    }
+    .icons {
+        margin-right: 5%;
+
+    }
+    .blockstext {
+        font-size: 85%;
+    }
+    .smallimg {
+        width: 50%;
+        height: 45%;
+    }
+    .icon {
+        width: 8%;
+        height: 110%;
+        margin-right: 4%;
+    }
+    .icontext {
+        justify-content: flex-start;
+
+    }
+    .booknowA {
+        font-size: 125%;
+    }
+    .mainpartfive {
+        margin-top: 10%;
+        height: 150vh;
+        flex-wrap: wrap;
+        margin-bottom: 20%;
+    }
+    .buttonbooknow {
+        height: 7vh;
+        width: 81%;
+    }
+    .card {
+        width: 40%;
+        height: 40vh;
+    }
+    .p {
+        font-size: 80%;
+    }
+    .textdiv {
+        margin-left: 19px;
+    }
+    .contactusmain {
+        flex-wrap: wrap;
+        height: 140vh;
+        margin-bottom: 6%;
+    }
+    .contactusform {
+        width: 80%;
+    }
+    .ptext {
+        font-size: 90%;
+    }
+    .x {
+        font-size: 90%;
+    }     
+    .pheader {
+        font-size: 125%;
+        letter-spacing: -1px;
+    }
+    .companyinfo {
+        width: 80%;
+        height: 60vh;
+    }
+    .mainpartsixheader {
+        margin-bottom: 0%;
+    }
+    .companyinfochild {
+        display: flex;
+        flex-wrap: wrap;
+        height: 33vh;
+        width: 110%;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .divinfo {
+        width: 85%;
+    }
+    .infoalldiv {
+        height: 8vh;
+        width: 80%;
+    }
+    .infoheader {
+        font-size: 100%;
+    }
+    .diviconstexts {
+        width: 75%;
+    }
+    .footerinfo {
+        line-height: 32px;
+        letter-spacing: 0px;
+        font-size: 105%;
+    }
+    .footerend > a {
+        font-size: 50%;
+    }
+    .footerend > span {
+        font-size: 50%;
+    }
+    .divblocktext {
+        height: 70%;
+    }
+    .footerpartthree > a {
+        line-height: 24px;
+        font-size: 90%;
+    }
+    .submitnowA {
+        font-size: 115%;
+    }
+    .contactusbutton > a {
+        font-size: 100%;
+    }
+    .infochild {
+        font-size: 85%;
+    }
+    .imgcompanyinfo {
+        width: 30px;
+         height: 5vh;
+    }
+    .teddykidfooter {
+        margin-left: -4%;
+        margin-top: 0px;
+        height: 10vh;
+    }
+    .labore {
+        font-size: 85%;
+    }
+    .headerfooter {
+        font-size: 142%;
+        letter-spacing: -1px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+    .footerinfochild {
+        font-size: 90%;
+    }
+    .inputs::placeholder {
+        font-size: 100%;
+    }
+    .option {
+        font-size: 85%;
+    }
+    .select {
+        font-size: 85%;
+    }
+}

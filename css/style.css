@@ -5,16 +5,18 @@ body {
     padding: 0;
 }
 .header {
-    width: auto;
+    width: 100%;
     height: 15vh;
     background: #f8f9fa;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    position: fixed;
+    box-shadow: 0px 2px #a9a6a69e;
 }
 .teddy {
-    width: 55px;
-    height: 55px;
+    width: 57px;
+    height: 57px;
 }
 .kidKinder {
     font-size: 285%;
@@ -60,6 +62,7 @@ body {
     width: 21%;
     height: auto;
     justify-content: space-between;
+    text-decoration: none;
 }
 .linksbutton {
     display: flex;
@@ -68,12 +71,13 @@ body {
     align-items: center;
 }
 .main {
-    width: auto;
+    width: 100%;
     height: 115vh;
     background-color: #17a2b8;
     display: flex;
     justify-content: space-evenly; 
     align-items: center;
+    padding-top: 5%;
 }
 .maintext {
     width: 44%;
@@ -565,9 +569,10 @@ hr {
 }
 .inputs {
     height: 7vh;
-    width: 82%;
+    width: 80%;
     border-radius: 6px;
     border: aliceblue;
+    padding-left: 3%;
 }
 .select {
     width: 83%;
@@ -604,6 +609,7 @@ hr {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 3%;
 }
 .mainpartsix {
     height: 75vh;
@@ -612,7 +618,7 @@ hr {
     justify-content: space-evenly;
     margin-left: 35px;
 }
-.mainpartsix > div {
+.card {
     width: 22%;
     height: 70vh;
     display: flex;
@@ -692,13 +698,46 @@ hr {
 }
 .socialdivs {
     display: flex;
-    width: 70%;
-    height: 6vh;
+    width: 235px;
+    height: 15%;
     justify-content: space-between;
     margin-top: 30px;
 }
-.linksicon {
-    display: flex;
+.twittericon {
+    background-image: url('../img/icons8-twitter-1.png');
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 107%;
+}
+.twittericon:hover {
+    background-image: url('../img/icons8-twitter\ \(2\).png');
+}
+.facebookicon {
+    background-image: url('../img/icons8-facebook-f-50.png');
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 107%;
+}
+.facebookicon:hover {
+    background-image: url('../img/icons8-facebook-f-50\ \(1\).png');
+}
+.linkedinicon {
+    background-image: url('../img/icons8-linkedin-2-50.png');
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 107%;
+}
+.linkedinicon:hover {
+    background-image: url('../img/icons8-linkedin-2-50\ \(1\).png');
+}
+.instagramicon {
+    background-image: url('../img/icons8-instagram-50.png');
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 107%;
+}
+.instagramicon:hover {
+    background-image: url('../img/icons8-instagram-50\ \(1\).png');
 }
 .headerfooter {
     color: #2fb0c5;
@@ -731,12 +770,13 @@ hr {
     text-decoration: none;
 }
 .inputsfooter {
-    width: 80%;
+    width: 76%;
     height: 7vh;
     border-radius: 5px;
     border: white;
     margin-bottom: 15px;
     margin-top: 10px;
+    padding-left: 4%;
 }
 .buttonsubmitnow {
     border-radius: 40px;
@@ -781,79 +821,177 @@ hr {
     margin-right: 5px;
     margin-left: 5px;
 }
-@media screen and (max-width: 1232px) and (min-width: 1090px) {
-    .smallimgtext > p {
-        font-size: 85%;
-    }
-    .partthreetext {
-        height: 100vh;
-    }
-    .icontext {
-        width: 80%;
-    }
-    .maintext {
-        height: 65%;
-    }
-    .learnbutton {
-        width: 31%;
-        height: 12%;
-    }
-    .mainpng {
-        width: 38%;
-        height: 73%;
-    }
+.inputs::placeholder {
+    font-weight: 600;
+    color: rgb(134, 133, 133);
+    font-size: 120%;
 }
-@media screen and (max-width: 1232px) and (min-width: 1132px) {
-    .divicontext {
-        width: 54%;
-    }
+.option {
+    font-weight: 600;
+    color: rgb(134, 133, 133);
+    font-size: 100%; 
+} 
+.select {
+    font-weight: 600;
+    color: rgb(134, 133, 133);
+    font-size: 100%; 
+    padding-left: 2%;
 }
-@media screen and (max-width: 1132px) and (min-width: 1032px) {
-    .divicontext {
-        width: 58%;
-    }
+.inputsfooter::placeholder {
+    font-weight: 600;
+    color: rgb(134, 133, 133);
+    font-size: 120%;
 }
-@media screen and (max-width: 1090px) and (min-width: 900px) {
-    .teddy {
-        width: 50px;
-        height: 50px;
-    }
-    .kidKinder {
-        font-size: 270%;
-    }
-    .teddykid {
-        width: 24%;
-    }
-    .headerLinks {
-        font-size: 17px;
-    }
-    .linksbutton {
-        width: 70%;
-    }
-    .icontext {
-        width: 90%;
-    }
-    .smallimgtext > p {
-        font-size: 80%;
-    }
-    .mainpng {
-        width: 44%;
-        height: 73%;
-    }
+.mainabout {
+    width: 100%;
+    height: 80vh;
+    padding-top: 10%;
+    background-color: #17a2b8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
 }
-@media screen and (max-width: 990px) and (min-width: 890px) {
-    
-    .smallimgtext > p {
-       font-size: 72%;
-    }
-    .icontext {
-        width: 90%;
-    }
-    .smallimg {
-        width: 32%;
-        height: 115%;
-    }
-    .partthreebutton {
-        width: 25%;
-    }
+.aboutdiv {
+    width: 50%;
+    height: 30vh;
+    text-align: center;
+}
+.aboutus {
+    margin: 0;
+    color: white;
+    font-weight: 500;
+    font-family: Handlee,cursive;
+    font-size: 5rem;
+    letter-spacing: -2px;
+}
+.aboutandhome {
+    text-decoration: none;
+    color: white;
+    font-family: Handlee,cursive;
+    font-size: 20px;
+    display: inline;
+}
+.slesh {
+    width: 100%;
+    height: 10vh;
+}
+.gallerymain {
+    width: 100%;
+    height: 45vh;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 3%;
+}
+.gallerymaintwo {
+    width: 100%;
+    height: 45vh;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 6%; 
+}
+.gallerymaintwo > img {
+    width: 28%;
+    height: 42vh;
+}
+.gallerymain > img {
+    width: 28%;
+    height: 42vh;
+}
+.contactusmain {
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.contactusinput {
+    width: 99%;
+    height: 6vh;
+    padding-left: 3%;
+    border: 1px solid #bbbaba;
+    border-radius: 5px;
+}
+.textareamessage {
+    width: 99%;
+    height: 25vh;
+    padding-left: 3%;
+    padding-top: 2%;
+    border: 1px solid #bbbaba;
+    border-radius: 5px;
+}
+.contactusbutton {
+    width: 27%;
+    height: 8vh;
+    border-radius: 30px;
+    background-color: #2FB0C5;
+    border: #2FB0C5;
+}
+.contactusform {
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.contactusinput::placeholder {
+    font-weight: 600;
+    color: rgb(134, 133, 133);
+    font-size: 110%;
+    font-family: 'Roboto';
+}
+.textareamessage::placeholder {
+    font-weight: 600;
+    color: rgb(134, 133, 133);
+    font-size: 110%;   
+    font-family: 'Roboto';
+}
+.contactusbutton > a {
+    font-family: 'Roboto';
+    font-size: 120%;
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+.companyinfo {
+    width: 35%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.companyinfochild {
+    width: 100%;
+    height: 40vh;
+}
+.companyinfo > p {
+    font-family: Nunito,sans-serif;
+    line-height: 1.5;
+    color: #666; 
+    margin: 0;
+}
+.infoheader {
+    font-family: Handlee,cursive;
+    font-size: 130%;
+    margin: 0;
+}
+.infochild {
+    font-family: Nunito,sans-serif;
+    font-size: 100%;
+    margin: 0;
+}
+.imgcompanyinfo {
+    width: 40px;
+    height: 6vh;
+}
+.divinfo {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.infoalldiv {
+    width: 83%;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
