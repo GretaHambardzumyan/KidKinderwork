@@ -13,6 +13,7 @@ body {
     align-items: center;
     position: fixed;
     box-shadow: 0px 2px #a9a6a69e;
+    z-index: 10;
 }
 .teddy {
     width: 57px;
@@ -618,16 +619,43 @@ hr {
     justify-content: space-evenly;
     margin-left: 35px;
 }
-.card {
+.card_t {
     width: 22%;
     height: 70vh;
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
 }
 .imgs {
-    border-radius: 150px;
+    border-radius: 50%;
     width: 100%;
+    height: 100%;
+}
+.card_img {
+    width: 100%;
+    position: relative;
+}
+.card_hover {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgba(38, 173, 207, 0.651);
+    opacity: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.3s ease;
+    text-decoration: none;
+    font-size: 150%;
+    color: white;
+    font-family: Handlee,cursive;
+    letter-spacing: -2px;
+}
+.card_img:hover .card_hover {
+    opacity: 1;
 }
 .pheader {
     font-family: Handlee,cursive;
@@ -698,16 +726,17 @@ hr {
 }
 .socialdivs {
     display: flex;
-    width: 235px;
+    width: 190px;
     height: 15%;
     justify-content: space-between;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 .twittericon {
-    background-image: url('../img/icons8-twitter-1.png');
+    background-image: url(../img/icons8-twitter-1.png);
     background-repeat: no-repeat;
-    width: 60px;
-    height: 107%;
+    width: 38px;
+    height: 38px;
+    background-size: cover;
 }
 .twittericon:hover {
     background-image: url('../img/icons8-twitter\ \(2\).png');
@@ -715,8 +744,9 @@ hr {
 .facebookicon {
     background-image: url('../img/icons8-facebook-f-50.png');
     background-repeat: no-repeat;
-    width: 60px;
-    height: 107%;
+    width: 38px;
+    height: 38px;
+    background-size: cover;
 }
 .facebookicon:hover {
     background-image: url('../img/icons8-facebook-f-50\ \(1\).png');
@@ -724,8 +754,9 @@ hr {
 .linkedinicon {
     background-image: url('../img/icons8-linkedin-2-50.png');
     background-repeat: no-repeat;
-    width: 60px;
-    height: 107%;
+    width: 38px;
+    height: 38px;
+    background-size: cover;
 }
 .linkedinicon:hover {
     background-image: url('../img/icons8-linkedin-2-50\ \(1\).png');
@@ -733,8 +764,9 @@ hr {
 .instagramicon {
     background-image: url('../img/icons8-instagram-50.png');
     background-repeat: no-repeat;
-    width: 60px;
-    height: 107%;
+    width: 38px;
+    height: 38px;
+    background-size: cover;
 }
 .instagramicon:hover {
     background-image: url('../img/icons8-instagram-50\ \(1\).png');
@@ -781,8 +813,8 @@ hr {
 .buttonsubmitnow {
     border-radius: 40px;
     background-color: #2fb0c5;
-    width: 84%;
-    height: 9vh;
+    width: 81%;
+    height: 8vh;
     box-shadow: 1px 9px 12px 2px #4a5470;
     border: #2fb0c5;  
 }
